@@ -2,7 +2,7 @@
 
 **Full-Stack MERN Developer** — I build things that actually work in production.
 
-🟢 **Open to remote roles** · 📍 Nagpur, Maharashtra · 🎓 BE Computer Engineering (2027)
+🟢 **Open to remote roles** · 📍 Sangamner, Maharashtra · 🎓 BE Computer Engineering (2027)
 
 ---
 
