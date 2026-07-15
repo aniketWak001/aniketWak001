@@ -2,7 +2,7 @@
 
 **Full-Stack Developer (MERN + TypeScript)** — I build systems that hold up in production, not just demos.
 
-🟢 Open to remote roles & freelance work · 📍 Sangamner, Maharashtra, India · 🎓 Computer Engineering
+🟢 Open to full-time roles & freelance work · 📍 Sangamner, Maharashtra, India · 🎓 BE Computer Engineering
 
 ---
 
@@ -10,7 +10,7 @@
 
 I'm a final-year Computer Engineering student who's shipped two real, deployed platforms — not tutorial clones. My focus is backend depth: authentication systems, caching, queues, test coverage, and CI/CD, alongside clean React frontends.
 
-Currently deepening my system design and DSA fundamentals while looking for **full-time remote roles** and **freelance projects**.
+Currently deepening my system design and DSA fundamentals while looking for **full-time roles** and **freelance projects**.
 
 ---
 
@@ -84,9 +84,9 @@ Built during a 6-week MERN internship at EY GDS. Developed backend APIs and CRUD
 
 ## 📌 Currently
 
-- Finishing my BE in Computer Engineering at Amrutvahini College of Engineering (2027)
+- Finishing my BE in Computer Engineering at Amrutvahini College of Engineering
 - Deepening backend engineering and system design skills
-- Open to **remote full-stack roles** and **freelance projects** — let's talk
+- Open to **full-time roles** and **freelance projects** — let's talk
 
 ---
 
